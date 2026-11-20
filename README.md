@@ -71,10 +71,10 @@ streamlit run main.py
 ![Home Page](output/first.png)
 
 **File Upload** 
-![Home Page](output/sec.png)
+![File Page](output/sec.png)
 
 **Positive Question** 
-![Home Page](output/third.png)
+![Positive Page](output/third.png)
 
 **Invalid Question** 
-![Home Page](output/fourth.png)
+![Invalid Page](output/fourth.png)
